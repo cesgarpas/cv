@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## César García Pascual
 
-You can use the [editor on GitHub](https://github.com/cesgarpas/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Soy Ingeniero del Software y he estado trabajando en el desarrollo, despliegue y gestión de proyectos Cloud basados en microservicios. Interesado en aprender nuevas tecnologías y seguir afianzando conocimientos adquiridos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experiencia Profesional
 
-### Markdown
+**Técnico Investigador** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Ago 2021)_ <br>
+Software basado en acuerdos nivel de servicio para la descripción y auditoría de buenas prácticas de equipos software.
+- Desarrollo de microservicios web empleando NodeJS, MongoDB y Angular.
+- Visualización de datos almacenados en InfluxDB usando Grafana.
+- Uso de Docker para la despliegue y gestión de sistemas informáticos en la nube.
+- Configuración de pipelines CI/CD para garantizar la calidad de los componentes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Educación
 
-```markdown
-Syntax highlighted code block
+**Máster en Ingeniería del Software: Cloud Datos y Gestión TI** @ [Universidad de Sevilla](https://masteroficial.us.es/mis/index.html) _(2020-21)_ <br>
+Realizado en la ETSII Escuela Técnica Superior de Ingeniería Informática. Profundización en la ingeniería cloud, de datos y la gestión de las tecnologías de la Información.
 
-# Header 1
-## Header 2
-### Header 3
+**Grado en Ingeniería del Software** @ [Universidad de Sevilla](https://www.informatica.us.es/index.php/grados/ingenieria-del-software) _(2013-20)_ <br>
+Grado en la Escuela Internacional de Posgrado sobre la Ingeniería del Software.
 
-- Bulleted
-- List
+**Proyecto Estalmat: Estimulo del talento matemático** @ [Thales y RSME](https://thales.cica.es/estalmat/) _(2009-13)_ <br>
+Estalmat son las siglas del Proyecto "Estímulo del Talento Matemático" financiado por el CSIC, Ministerio de Educación, FECYT, Junta de Andalucía, Universidad de Sevilla, Casio, Cepsa y Vodafone.
 
-1. Numbered
-2. List
+**Bachillerato: Ciencias tecnológicas** @ [Ntra. Sra. del Pilar](https://marianistasjerez.org/) _(2011-13)_ <br>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Licencias y certificaciones
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **Lingua Skill CEFR: C1 or above** @ [Cambridge Assesment English](https://www.cambridgeenglish.org/exams-and-tests/linguaskill/) _(Sep 2020)_ <br>
 
-### Jekyll Themes
+- **First Certificate in English: B2** @ [Cambridge Assesment English](https://www.cambridgeenglish.org/exams-and-tests/first/) _(Jun 2013)_ <br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cesgarpas/my-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **Aleman: A2** @ [Escuela Oficial de Idiomas de Jerez](http://www.eoijerez.com/) _(Jun 2013)_ <br>
 
-### Support or Contact
+### Cursos y otros estudios
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Curso Experto Unity 3D** @ [Genera Games](https://genjoy.com/) _(Oct-Dic 2016)_ <br>
+
+- **Curso matemática Avanzada en colaboración con la Universidad de San Petersburgo** @ [St. Petersburg University](https://english.spbu.ru/) _(Jul 2012)_ <br>
+
+- **Grado medio: Piano** @ [Conservatorio Profesional de Música Joaquín Villatoro](https://www.cpmjerez.es/) _(2004-12)_ <br>
+
+### Reconocimientos y premios
+
+- **Segundo clasificado reto Censo Electoral: V Edición Everis codeFEST** @ [Everis](http://codefest.everis.com/) _(2019)_ <br>
+
+- **Primer premio Olimpiada Matemática Española: Fase provincial** @ [RMSE](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html) _(2013)_ <br>
