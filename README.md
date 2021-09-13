@@ -27,22 +27,22 @@ Estalmat son las siglas del Proyecto "Estímulo del Talento Matemático" financi
 
 ## Licencias y certificaciones
 
-- **Lingua Skill CEFR: C1 or above** @ [Cambridge Assesment English](https://www.cambridgeenglish.org/exams-and-tests/linguaskill/) _(Sep 2020)_ <br>
+• **Lingua Skill CEFR: C1 or above** @ [Cambridge Assesment English](https://www.cambridgeenglish.org/exams-and-tests/linguaskill/) _(Sep 2020)_ <br>
 
-- **First Certificate in English: B2** @ [Cambridge Assesment English](https://www.cambridgeenglish.org/exams-and-tests/first/) _(Jun 2013)_ <br>
+• **First Certificate in English: B2** @ [Cambridge Assesment English](https://www.cambridgeenglish.org/exams-and-tests/first/) _(Jun 2013)_ <br>
 
-- **Aleman: A2** @ [Escuela Oficial de Idiomas de Jerez](http://www.eoijerez.com/) _(Jun 2013)_ <br>
+• **Aleman: A2** @ [Escuela Oficial de Idiomas de Jerez](http://www.eoijerez.com/) _(Jun 2013)_ <br>
 
 ## Reconocimientos y premios
 
-- **Segundo clasificado reto Censo Electoral: V Edición Everis codeFEST** @ [Everis](http://codefest.everis.com/) _(2019)_ <br>
+• **Segundo clasificado reto Censo Electoral: V Edición Everis codeFEST** @ [Everis](http://codefest.everis.com/) _(2019)_ <br>
 
-- **Primer premio Olimpiada Matemática Española: Fase provincial** @ [RMSE](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html) _(2013)_ <br>
+• **Primer premio Olimpiada Matemática Española: Fase provincial** @ [RMSE](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html) _(2013)_ <br>
 
 ## Cursos y otros estudios
 
-- **Curso Experto Unity 3D** @ [Genera Games](https://genjoy.com/) _(Oct-Dic 2016)_ <br>
+• **Curso Experto Unity 3D** @ [Genera Games](https://genjoy.com/) _(Oct-Dic 2016)_ <br>
 
-- **Curso matemática Avanzada en colaboración con la Universidad de San Petersburgo** @ [St. Petersburg University](https://english.spbu.ru/) _(Jul 2012)_ <br>
+• **Curso matemática Avanzada en colaboración con la Universidad de San Petersburgo** @ [St. Petersburg University](https://english.spbu.ru/) _(Jul 2012)_ <br>
 
-- **Grado medio: Piano** @ [Conservatorio Profesional de Música Joaquín Villatoro](https://www.cpmjerez.es/) _(2004-12)_ <br>
+• **Grado medio: Piano** @ [Conservatorio Profesional de Música Joaquín Villatoro](https://www.cpmjerez.es/) _(2004-12)_ <br>
