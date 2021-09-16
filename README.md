@@ -4,7 +4,7 @@ Soy Ingeniero del Software y he estado trabajando en el desarrollo, despliegue y
 
 ## Experiencia Profesional
 
-**Técnico Investigador** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Ago 2021)_ <br>
+**Full Stack Developer** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Ago 2021)_ <br>
 Software basado en acuerdos nivel de servicio para la descripción y auditoría de buenas prácticas de equipos software.
 - Desarrollo de microservicios web empleando NodeJS, MongoDB y Angular.
 - Visualización de datos almacenados en InfluxDB usando Grafana.
