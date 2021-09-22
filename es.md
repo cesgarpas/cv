@@ -1,6 +1,6 @@
-[**English Version**](./)
-
 # César García Pascual
+
+[CV English Version](./)
 
 Soy Ingeniero Software y he estado trabajando en el desarrollo, despliegue y gestión de proyectos cloud basados en microservicios. Interesado en aprender nuevas tecnologías y seguir afianzando conocimientos adquiridos.
 
@@ -9,11 +9,17 @@ Soy Ingeniero Software y he estado trabajando en el desarrollo, despliegue y ges
 **Full Stack Developer** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Ago 2021)_
 
 Software basado en **ANS** (acuerdos nivel de servicio) para la **monitorización** de servicios web así como la descripción y auditoría de **buenas prácticas** de equipos software.
+
 - Backend basado en microservicios web empleando **NodeJS**, **Express.js**, **OpenAPI**, **MongoDB** y **InfluxDB**.
+
 - Tests unitarios y de integración empleando **Mocha** y **Jest** así como uso de **ESLint** para la verificación estática de calidad de código.
+
 - Frontend MVC con renderización de plantillas empleando **Angular.js** y **mustache.js**.
+
 - **Dashboard** para la visualización de datos almacenados en InfluxDB usando **Grafana**.
+
 - Uso de **Docker** para la despliegue y gestión de sistemas informáticos en la nube (IaaS) como **AWS**, **Azure** y **OVHcloud**.
+
 - Configuración de pipelines **CI/CD** para garantizar la calidad de los componentes en **Travis CI** y **GitHub Actions** y la creación de nuevas imágenes de Docker.
 
 ## Educación

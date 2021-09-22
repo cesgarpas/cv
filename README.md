@@ -1,6 +1,6 @@
-[**Spanish Version**](./es)
+# César García Pascual 
 
-# César García Pascual
+[CV Spanish Version](./es)
 
 I am a Software Engineer and I have been working in the development, deployment and management of cloud projects based in microservices. I am interested in learning new technologies and keep improving my adquired knowledge.
 
@@ -9,11 +9,17 @@ I am a Software Engineer and I have been working in the development, deployment 
 **Full Stack Developer** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Aug 2021)_ 
 
 Software based on **SLAs** (service level agreements) for the **monitorization** of cloud systems as well as description and audits of **best practices** ocurring in software teams.
+
 - Backend based on web microservices using **NodeJS**, **Express.js**, **OpenAPI**, **MongoDB** and **InfluxDB**.
+
 - Unit and integration tests using **Mocha** and **Jest** as well as the use of **ESLint** for static code quality verification.
+
 - Frontend MVC with template rendering using **Angular.js** and **mustache.js**.
+
 - **Dashboard** for visualizing data stored in InfluxDB using **Grafana**.
+
 - Use of **Docker** for the deployment and management of cloud linux based systems (IaaS) such as **AWS**, **Azure** and **OVHcloud**.
+
 - Configuration of pipelines **CI / CD** to guarantee the quality of the components, the versioning of the code and creation of new Docker images using **Travis CI** and **GitHub Actions**.
 
 ## Education
