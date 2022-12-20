@@ -13,19 +13,31 @@ Solera is a leading global provider of integrated vehicle lifecycle and fleet ma
 Worked in teams developing software for simplification of vehicles management processes. Started working in a team doing DevOps tasks due to the necessity of the company to migrate the architecture to a different platform using Kubernetes (K8s) and then worked accomplishing  frontend tasks. Afterwards I was moved into a different team to work as Backend Developer and Tech Lead, supporting technical discussions with the customer and also working in the detection of technical debt and onboarding of new joiners.
 
 **Duties performed:**
+
 - Scrum framework for project management. Plannings, Refinements, Reviews, Retrospectives, Quarterly Plannings and Daily Stand-ups.
+
 - Atlassian tools suite used for supporting Agile process (Jira, Bitbucket, Confluence). Tech debt identification and PTIs definition.
+
 - Microservices based backend maintenance and new features development for Android/iOS application.
+
 - Frontend development by following UX design and functional specification.
+
 - PCF to K8s migration. Accomplishment of tasks related with management of K8s resources (Helm charts, deployments, ingresses...) during software development lifecycle.
+
 - Developed standard pipelines solution (ConcourseCI) with people from different teams for pull request checking, releasing and deployment of code/services.
 
 **Tech stack:**
+
 - **Backend**: Spring Boot, Nodejs
+
 - **DB**: MongoDB, MySQL
+
 - **Frontend**: React.js, Redux, Enzyme.js
+
 - **DevOps**: Kubernetes, Helm, PCF, Kong, AWS S3, AWS Route 53
+
 - **CI/CD**: ConcourseCI, GitHub Actions
+
 - **Monitoring**: New Relic, Wavefront, Contrast
 
 **Software Developer** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Aug 2021)_ 
@@ -35,19 +47,31 @@ ISA is the Research Group of Applied Software Engineering composed by research s
 Worked developing software for monitoring web services using SLAs (Service level agreement) as input. Its use cases include the monitoring of teams for ensuring proper software development lifecycle (best practices fulfilment) or the assurance of compliance with service agreements between clients and companies.
 
 **Duties performed:**
+
 - Microservices based backend. Development using framework based on OpenAPI for controllers generation.
+
 - Frontend development using templating libraries for sharing common interface for different purposes.
+
 - Unit and integration tests using as well as the use of tools for static code quality verification.
+
 - Created generic Grafana solution for generating new dashboards in real time directly from the definition on the SLA used as input.
+
 - Deployment and management of cloud Linux based systems (IaaS).
+
 - Configuration of pipelines to guarantee the quality of the components, the versioning of the code and creation of new images.
 
 **Tech stack:**
+
 - **Backend**: Nodejs, Express.js, 
+
 - **DB**: MongoDB, InfluxDB
+
 - **Frontend**: Angular.js, Mustache.js
+
 - **DevOps**: Docker, AWS EC2, Azure
+
 - **CI/CD**: Travis CI, GitHub Actions
+
 - **Monitoring**: Grafana
 
 ## Education

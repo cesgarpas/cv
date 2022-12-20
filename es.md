@@ -13,19 +13,31 @@ Solera es un proveedor líder mundial de software-as-a-service, datos y servicio
 He trabajado en equipos desarrollando software para la simplificación de los procesos de gestión de vehículos. Comencé trabajando en un equipo realizando tareas de DevOps debido a la necesidad de la empresa de migrar la arquitectura a una plataforma diferente utilizando Kubernetes (K8s) y luego trabajé realizando tareas de frontend. Posteriormente fui trasladado a otro equipo para trabajar como Backend Developer y Tech Lead, dando soporte a las discusiones técnicas con el cliente y trabajando también en la detección de deuda técnica y introcucción técnica de nuevos miembros del equipo.
 
 **Funciones desempeñadas:**
+
 - Uso de Scrum para la gestión de proyectos. Plannings, Refinements, Reviews, Retrospectives, Quarterly Plannings y Daily Stand-ups.
+
 - Utilización del suite Atlassian para el soporte del proceso Agile (Jira, Bitbucket, Confluence). Identificación de deuda técnica y definición de PTIs.
+
 - Mantenimiento del backend basado en microservicios y desarrollo de nuevas funcionalidades para aplicaciones Android/iOS.
+
 - Desarrollo frontend siguiendo diseño UX y especificación funcional.
+
 - Migración de PCF a K8s. Realización de tareas relacionadas con la gestión de recursos K8s (Helm charts, deployments, ingresses...) durante el ciclo de vida de desarrollo de software.
+
 - Desarrollo de solución de pipelines estándar (ConcourseCI) con personas de diferentes equipos para checkeo de pull requests, construcción y despliegue de código/servicios.
 
 **Stack Tecnológico:**
+
 - **Backend**: Spring Boot, Nodejs
+
 - **DB**: MongoDB, MySQL
+
 - **Frontend**: React.js, Redux, Enzyme.js
+
 - **DevOps**: Kubernetes, Helm, PCF, Kong, AWS S3, AWS Route 53
+
 - **CI/CD**: ConcourseCI, GitHub Actions
+
 - **Monitoring**: New Relic, Wavefront, Contrast
 
 **Full Stack Developer** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Ago 2021)_
@@ -35,19 +47,31 @@ ISA es el Grupo de Investigación de Ingeniería del Software Aplicada compuesto
 Participé en el desarrollo de un software creado para la monitorización de servicios web utilizando como entrada ANSs (Acuerdo nivel de servicio). Sus casos de uso incluyen la monitorización de equipos para asegurar un correcto ciclo de vida de desarrollo de software (seguimiento de buenas prácticas) o el aseguramiento del cumplimiento de acuerdos de servicio entre clientes y empresas.
 
 **Funciones desempeñadas:**
+
 - Backend basado en microservicios. Desarrollo utilizando framework basado en OpenAPI para generación de controladores.
+
 - Desarrollo frontend utilizando librerías de plantillas, creando interfaces comunes para diferentes usos.
+
 - Definición de pruebas unitarias y de integración así como el uso de herramientas para la verificación estática de la calidad del código.
+
 - Creación de solución genérica Grafana para la generación de nuevos cuadros de mando en tiempo real, utilizando directamente la definición del propio ANS utilizado como input.
+
 - Despliegue y gestión de sistemas basados en Linux en la nube (IaaS).
+
 - Configuración de pipelines para garantizar la calidad de los componentes, el versionado del código y creación de nuevas imágenes.
 
 **Stack Tecnológico:**
+
 - **Backend**: Nodejs, Express.js, 
+
 - **DB**: MongoDB, InfluxDB
+
 - **Frontend**: Angular.js, Mustache.js
+
 - **DevOps**: Docker, AWS EC2, Azure
+
 - **CI/CD**: Travis CI, GitHub Actions
+
 - **Monitoring**: Grafana
 
 ## Educación
