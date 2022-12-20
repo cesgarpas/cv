@@ -2,7 +2,7 @@
 
 [CV Spanish Version](./es)
 
-I am a Software Engineer and I have been working in the development, deployment and management of cloud projects based in microservices. My plan is to keep learning and expanding my knowledge. I consider myself a proactive and adaptative person ready to accomplish whatever is required.
+I am a Software Engineer and I have been working in the development, deployment and management of cloud projects based in microservices. My plan is to keep learning, expand my knowledge and meet people in the Software Engineering field to work with and grow professionally. I consider myself a proactive and adaptative person ready to accomplish whatever is required.
 
 ## Professional Experience
 
@@ -10,17 +10,17 @@ I am a Software Engineer and I have been working in the development, deployment 
 
 Solera is a leading global provider of integrated vehicle lifecycle and fleet management software-as-a-service, data, and services.
 
-Worked in teams developing software for simplification of vehicles management processes. Started working in a team doing DevOps tasks due to the necessity of the company to migrate the architecture to a different platform using K8s and then worked acocomplishing frontend tasks. Afterwards I was moved into a different team to work as Backend Developer and Tech Lead, supporting technical discussions with the customer and also working in the detection of technical debt and onbording of new joiners.
+Worked in teams developing software for simplification of vehicles management processes. Started working in a team doing DevOps tasks due to the necessity of the company to migrate the architecture to a different platform using Kubernetes (K8s) and then worked accomplishing  frontend tasks. Afterwards I was moved into a different team to work as Backend Developer and Tech Lead, supporting technical discussions with the customer and also working in the detection of technical debt and onboarding of new joiners.
 
-**Duties performed**:
-- Scrum framework for project management. Plannings, Refinements, Reviews, Retrospectives, Quarterly plannings and dailies.
-- Atlassian tools suite used for supporting Agile process (Jira, BitBucket, Confluence). Tech debt identification and PTIs definition.
+**Duties performed:**
+- Scrum framework for project management. Plannings, Refinements, Reviews, Retrospectives, Quarterly Plannings and Daily Stand-ups.
+- Atlassian tools suite used for supporting Agile process (Jira, Bitbucket, Confluence). Tech debt identification and PTIs definition.
 - Microservices based backend maintenance and new features development for Android/iOS application.
 - Frontend development by following UX design and functional specification.
-- PCF to Kubernetes (K8s) migration. Accomplishment of tasks related with management of K8s resources (Helm charts, deployments, ingresses...) during software development lifecycle.
-- Developed standard pipelines solution (ConcourseCI) with people from different teams for PR checking, releasing and deployment of code/services.
+- PCF to K8s migration. Accomplishment of tasks related with management of K8s resources (Helm charts, deployments, ingresses...) during software development lifecycle.
+- Developed standard pipelines solution (ConcourseCI) with people from different teams for pull request checking, releasing and deployment of code/services.
 
-**Tech stack**:
+**Tech stack:**
 - **Backend**: Spring Boot, Nodejs
 - **DB**: MongoDB, MySQL
 - **Frontend**: React.js, Redux, Enzyme.js
@@ -28,21 +28,21 @@ Worked in teams developing software for simplification of vehicles management pr
 - **CI/CD**: ConcourseCI, GitHub Actions
 - **Monitoring**: New Relic, Wavefront, Contrast
 
-**Full Stack Developer** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Aug 2021)_ 
+**Software Developer** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Aug 2021)_ 
 
 ISA is the Research Group of Applied Software Engineering composed by research staff of the Department Computer Languages and Systems of the University of Seville.
 
-Worked developing software for monitoring web services using SLAs (service level agreements) as input. Its use cases include the monitoring of teams for ensuring proper software development lifecycle (best practices fulfillment) or the assurance of compliance with service agreements between clients and companies.
+Worked developing software for monitoring web services using SLAs (Service level agreement) as input. Its use cases include the monitoring of teams for ensuring proper software development lifecycle (best practices fulfilment) or the assurance of compliance with service agreements between clients and companies.
 
-**Duties performed**:
+**Duties performed:**
 - Microservices based backend. Development using framework based on OpenAPI for controllers generation.
-- Frontend development using templating libraries for sharing common interface for diferent purposes.
+- Frontend development using templating libraries for sharing common interface for different purposes.
 - Unit and integration tests using as well as the use of tools for static code quality verification.
 - Created generic Grafana solution for generating new dashboards in real time directly from the definition on the SLA used as input.
-- Deployment and management of cloud linux based systems (IaaS).
-- Configuration of pipelines to guarantee the quality of the components, the versioning of the code and creation of new Docker images.
+- Deployment and management of cloud Linux based systems (IaaS).
+- Configuration of pipelines to guarantee the quality of the components, the versioning of the code and creation of new images.
 
-**Tech stack**:
+**Tech stack:**
 - **Backend**: Nodejs, Express.js, 
 - **DB**: MongoDB, InfluxDB
 - **Frontend**: Angular.js, Mustache.js
