@@ -6,11 +6,11 @@ Soy Ingeniero del Software y he estado trabajando en el desarrollo, despliegue y
 
 ## Experiencia Profesional
 
-**Software Developer** @ [Solera Inc](https://www.solera.com/) _(Nov 2021 - Actualidad)_
+### **Software Developer** @ [Solera Inc](https://www.solera.com/) _(Nov 2021 - Actualidad)_
 
 Solera es un proveedor líder mundial de software-as-a-service, datos y servicios integrados de gestión del ciclo de vida de vehículos y flotas.
 
-He trabajado en equipos desarrollando software para la simplificación de los procesos de gestión de vehículos. Comencé trabajando en un equipo realizando tareas de DevOps debido a la necesidad de la empresa de migrar la arquitectura a una plataforma diferente utilizando Kubernetes (K8s) y luego trabajé realizando tareas de frontend. Posteriormente fui trasladado a otro equipo para trabajar como Backend Developer y Tech Lead, dando soporte a las discusiones técnicas con el cliente y trabajando también en la detección de deuda técnica y introcucción técnica de nuevos miembros del equipo.
+He trabajado en distintos equipos desarrollando software para la simplificación de procesos para la gestión de vehículos. Comencé trabajando en un equipo realizando tareas de DevOps debido a la necesidad de la empresa de migrar la arquitectura a una plataforma diferente utilizando Kubernetes (K8s) y luego trabajé realizando tareas de frontend. Posteriormente fui trasladado a otro equipo para trabajar como Backend Developer y Tech Lead, dando soporte a las discusiones técnicas con el cliente y trabajando también en la detección de deuda técnica e incorporación de nuevos miembros del equipo.
 
 **Funciones desempeñadas:**
 
@@ -40,7 +40,7 @@ He trabajado en equipos desarrollando software para la simplificación de los pr
 
 - **Monitoring**: New Relic, Wavefront, Contrast
 
-**Full Stack Developer** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Ago 2021)_
+### **Full Stack Developer** @ [ISA GROUP](https://www.isa.us.es/3.0/) _(Oct 2019 - Ago 2021)_
 
 ISA es el Grupo de Investigación de Ingeniería del Software Aplicada compuesto por personal investigador del Departamento Lenguajes y Sistemas Informáticos de la Universidad de Sevilla.
 
@@ -101,7 +101,7 @@ Estalmat son las siglas del Proyecto "Estímulo del Talento Matemático" financi
 
 ## Reconocimientos y premios
 
-• **Segundo clasificado reto Censo Electoral: V Edición Everis codeFEST** @ [Everis](http://codefest.everis.com/) _(2019)_
+• **Segundo clasificado reto Censo Electoral: V Edición Everis codeFEST** @ [NTT Data](https://www.nttdata.com/global/en/) _(2019)_
 
 • **Primer premio Olimpiada Matemática Española: Fase provincial** @ [RMSE](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html) _(2013)_
 
@@ -110,5 +110,3 @@ Estalmat son las siglas del Proyecto "Estímulo del Talento Matemático" financi
 • **Curso Experto Unity 3D** @ [Genera Games](https://genjoy.com/) _(Oct-Dic 2016)_
 
 • **Curso matemática Avanzada en colaboración con la Universidad de San Petersburgo** @ [St. Petersburg University](https://english.spbu.ru/) _(Jul 2012)_
-
-• **Grado medio: Piano** @ [Conservatorio Profesional de Música Joaquín Villatoro](https://www.cpmjerez.es/) _(2004-12)_

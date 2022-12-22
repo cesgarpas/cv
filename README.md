@@ -10,7 +10,7 @@ I am a Software Engineer and I have been working in the development, deployment 
 
 Solera is a leading global provider of integrated vehicle lifecycle and fleet management software-as-a-service, data, and services.
 
-Worked in teams developing software for simplification of vehicles management processes. Started working in a team doing DevOps tasks due to the necessity of the company to migrate the architecture to a different platform using Kubernetes (K8s) and then worked accomplishing  frontend tasks. Afterwards I was moved into a different team to work as Backend Developer and Tech Lead, supporting technical discussions with the customer and also working in the detection of technical debt and onboarding of new joiners.
+Worked in different teams developing software to simplify vehicles management processes. Started working in a team doing DevOps tasks due to the necessity of the company to migrate the architecture to a different platform using Kubernetes (K8s) and then worked accomplishing  frontend tasks. Afterwards I was moved into a different team to work as Backend Developer and Tech Lead, supporting technical discussions with the customer, working in the detection of technical debt and onboarding of new joiners.
 
 **Duties performed:**
 
@@ -62,7 +62,7 @@ Worked developing software for monitoring web services using SLAs (Service level
 
 **Tech stack:**
 
-- **Backend**: Nodejs, Express.js, 
+- **Backend**: Nodejs, Express.js,
 
 - **DB**: MongoDB, InfluxDB
 
@@ -101,7 +101,7 @@ Estalmat is the acronym for the Project "Stimulus of Mathematical Talent" financ
 
 ## Accomplishments
 
-• **Second classified in challenge "Censo Electoral": Everis codeFEST (5th edition)** @ [Everis](http://codefest.everis.com/) _(2019)_
+• **Second classified in challenge "Censo Electoral": Everis codeFEST (5th edition)** @ [NTT Data](https://www.nttdata.com/global/en/) _(2019)_
 
 • **First Price at Spanish Mathematical Olympiad: Provincial phase** @ [RMSE](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html) _(2013)_
 
